@@ -1,3 +1,3 @@
-# This is meant to serve as the application file duct taping everything together
-#
+# pyxmiparser - A utility to make sense of XMI flavored data sources
+# This package is intended to be a component of https://github.com/binaryflesh/quicksilver
 # Copyright (C) 2018 Logan Campos - @binaryflesh
