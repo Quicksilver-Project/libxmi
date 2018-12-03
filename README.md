@@ -1,2 +1,2 @@
-# pyxmiparser
-Rewrite of xmiparser-1.5 in python 3
+# WIP:XMILib
+OMG XMI 2.5.1 specification library in python.
